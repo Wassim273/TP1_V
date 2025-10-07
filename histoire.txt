@@ -1,0 +1,6 @@
+Il était une fois deux étudiants qui apprenaient à utiliser GitHub.  
+Au début, ils ne comprenaient pas grand-chose aux branches ni aux merges.  
+Mais petit à petit, ils ont appris à collaborer sans écraser le travail de l’autre.  
+Leur plus grand défi fut un conflit Git… qu’ils ont finalement résolu ensemble.  
+Depuis ce jour, ils ne craignent plus jamais de taper "git push" !
+
